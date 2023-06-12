@@ -1,6 +1,6 @@
 # animated_bottom_menu
 
-A new Flutter project.
+An animated bottom navigation & menu app.
 
 ## Getting Started
 
